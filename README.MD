@@ -8,6 +8,11 @@
 - 💜 Interests: **Sport 🤾🏻‍♂️**, **Music 🎵**, **Movies 🎬**
 - 👋🏻 Feel free to get in touch!
 
+'''
+**!\[Amir Diafi\](https://badgen.net/badge/hello/world/red?icon=twitter)**
+
+'''
+
 ## A passionate programmer with JavaScript and Swift
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirDiafi&layout=compact&disable_animations=false&theme=midnight-purple&show_icons=true)](https://github.com/AmirDiafi/github-readme-stats&tab=repositories)
