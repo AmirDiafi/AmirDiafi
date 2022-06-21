@@ -6,8 +6,8 @@
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&layout=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&layout=default&theme=dark)
 
 ## Some Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&tab=repositories&&show_icons=true&theme=dark&show_lang=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&tab=repositories&&show_icons=true&theme=dark&show_lang=true&theme=dark)
