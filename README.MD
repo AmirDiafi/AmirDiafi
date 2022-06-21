@@ -2,32 +2,18 @@
 
 # Hey, I'm Amir 👋
 
-<!-- Fin me online: [
-📧 [Email](mailto: amirdiafi2@gmail.com)
-💻 [WEB](https://amirdiafi.com)
-💻 [LinkedIn](<[diafiamir](https://www.linkedin.com/in/amirdiafi/)>)
-💻 [Twitter](<[diafi_amir](https://twitter.com/diafi_amir)>)
-💻 [Instagram](diafiamir)
-💻 [Youtube](<[AmirDiafi](https://www.youtube.com/channel/UCgbqyUzyD2IfqYoc0RcS2MA)>)
-💻 [Medium](https://amirdiafi.medium.com/)
-💻 [StackOverflow](https://stackoverflow.com/users/13407063/amir)
-] -->
-
-# Social Media
-
-Linkedin: [diafiamir](https://www.linkedin.com/in/amirdiafi/)
-Twitter: [diafi_amir](https://twitter.com/diafi_amir)
-Instagram: diafiamir
-Youtube: [AmirDiafi](https://www.youtube.com/channel/UCgbqyUzyD2IfqYoc0RcS2MA)
-Medium: https://amirdiafi.medium.com/
-StackOverflow: https://stackoverflow.com/users/13407063/amir
+- 👨‍💻 Frontend Software Engineer
+- ⚡ Skills: JS, TS, RactJS, Ract Native, NodeJS, GraphQL
+- 🌱 Learning more about and studying: SwiftUI, Swift UIKit and more
+- 💜 Interests: Sport 🤾🏻‍♂️, Music 🎵, Movies 🎬
+- 👋🏻 Feel free to get in touch!
 
 ## A passionate programmer with JavaScript and Swift
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&layout=default&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&layout=compact&disable_animations=false&theme=codeSTACKr)
 
 ## Some Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&tab=repositories&&show_icons=true&theme=dark&show_lang=true&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&tab=repositories&&show_icons=true&theme=dark&show_lang=true&theme=dark&disable_animation=false&theme=codeSTACKr)
