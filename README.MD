@@ -6,7 +6,7 @@
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&layout=default)
 
 ## Some Stats
 
