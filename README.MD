@@ -3,3 +3,5 @@
 # Hey, I'm Amir Diafi 👋
 
 ## A passionate programmer with JavaScript and Swift.
+
+[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?AmirDiafi=anuraghazra)](https://github.com/AmirDiafi/github-readme-stats)
