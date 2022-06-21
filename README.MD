@@ -10,6 +10,6 @@
 
 ## A passionate programmer with JavaScript and Swift
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirDiafi&layout=compact&disable_animations=false&theme=codeSTACKr&show_icons=true)](https://github.com/AmirDiafi/github-readme-stats&tab=repositories)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirDiafi&layout=compact&disable_animations=false&theme=jolly&show_icons=true)](https://github.com/AmirDiafi/github-readme-stats&tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDiafi&layout=compact&disable_animations=false&theme=codeSTACKr&show_icons=true)](https://github.com/AmirDiafi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDiafi&layout=compact&disable_animations=false&theme=jolly&show_icons=true)](https://github.com/AmirDiafi/github-readme-stats)
