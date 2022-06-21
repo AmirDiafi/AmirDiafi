@@ -1,4 +1,4 @@
-![Amir Diafi](https://raw.githubusercontent.com/AmirDiafi/GHProfile/main/profile.png)
+[Header](profile.png)
 
 # Hey, I'm Amir Diafi 👋
 
