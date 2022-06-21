@@ -2,7 +2,7 @@
 
 # Hey, I'm Amir 👋
 
-Fin me online: [
+<!-- Fin me online: [
 📧 [Email](mailto: amirdiafi2@gmail.com)
 💻 [WEB](https://amirdiafi.com)
 💻 [LinkedIn](<[diafiamir](https://www.linkedin.com/in/amirdiafi/)>)
@@ -11,7 +11,16 @@ Fin me online: [
 💻 [Youtube](<[AmirDiafi](https://www.youtube.com/channel/UCgbqyUzyD2IfqYoc0RcS2MA)>)
 💻 [Medium](https://amirdiafi.medium.com/)
 💻 [StackOverflow](https://stackoverflow.com/users/13407063/amir)
-]
+] -->
+
+# Social Media
+
+Linkedin: [diafiamir](https://www.linkedin.com/in/amirdiafi/)
+Twitter: [diafi_amir](https://twitter.com/diafi_amir)
+Instagram: diafiamir
+Youtube: [AmirDiafi](https://www.youtube.com/channel/UCgbqyUzyD2IfqYoc0RcS2MA)
+Medium: https://amirdiafi.medium.com/
+StackOverflow: https://stackoverflow.com/users/13407063/amir
 
 ## A passionate programmer with JavaScript and Swift
 
