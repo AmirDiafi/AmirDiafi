@@ -3,4 +3,3 @@
 # Hey, I'm Amir Diafi
 
 ## A passionate programmer with JavaScript and Swift.
-# GHProfile
