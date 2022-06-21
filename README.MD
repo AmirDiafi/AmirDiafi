@@ -1,4 +1,4 @@
-[Header](profile.png)
+![Header](./header.png)
 
 # Hey, I'm Amir Diafi 👋
 
