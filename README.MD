@@ -4,4 +4,4 @@
 
 ## A passionate programmer with JavaScript and Swift.
 
-[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats)
+[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirDiafi)](https://github.com/AmirDiafi/github-readme-stats&tab=repositories&&show_icons=true&theme=dark&show_lang=true)
