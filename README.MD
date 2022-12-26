@@ -5,7 +5,7 @@
 ![Medium URL](https://img.shields.io/twitter/url?color=%2300ab6c&label=Amir%20Diafi&logo=medium&logoColor=%2300ab6c&style=for-the-badge&url=https%3A%2F%2Famirdiafi.medium.com%2F)
 ![YouTube URL](https://img.shields.io/twitter/url?color=%23ff0000&label=Amir%20Diafi&logo=youtube&logoColor=%23ff0000&style=for-the-badge&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCgbqyUzyD2IfqYoc0RcS2MA)
 
-![Header](./header.png)
+![Header](https://user-images.githubusercontent.com/59441376/209575259-59cbae1c-7a73-44b3-89b6-f61fbc72d7ef.png)
 
 # Hey, I'm Amir 👋
 
